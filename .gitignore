@@ -1,0 +1,37 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# PyInstaller build output
+build/
+dist/
+
+# Excel source files (contains sensitive data)
+excel_source/
+dist/excel_source/
+
+# PyInstaller spec files
+*.spec
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Windows temporary files
+~$*.xlsx
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store

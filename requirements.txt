@@ -1,0 +1,6 @@
+pyautogui
+keyboard
+pandas
+openpyxl
+python-dotenv
+pywin32
